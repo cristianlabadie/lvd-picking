@@ -1,10 +1,10 @@
-import { CapacitorConfig } from '@capacitor/cli';
+import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'LVDPicking',
-  webDir: 'dist',
-  bundledWebRuntime: false
+  appId: "cl.lavegadelivery.lvdpicking",
+  appName: "LVDPicking",
+  webDir: "dist",
+  bundledWebRuntime: false,
 };
 
 export default config;

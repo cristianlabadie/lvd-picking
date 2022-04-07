@@ -1,0 +1,6 @@
+{
+	"appId": "cl.lavegadelivery.lvdpicking",
+	"appName": "LVDPicking",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

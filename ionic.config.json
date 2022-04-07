@@ -1,0 +1,7 @@
+{
+  "name": "LVDPicking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
